@@ -1,0 +1,60 @@
+.choosediv
+{
+    height:100vh;
+    width:100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    /* background-image:url("https://wallpaperaccess.com/full/5691564.jpg"); */
+    background: rgb(36,0,28);
+background: linear-gradient(90deg, rgba(36,0,28,1) 0%, rgba(0,212,255,1) 100%);
+    display:flex;
+}
+.clientdiv
+{
+    
+    height:400px;
+    width:300px;
+    background-image: url("../pics/luxa.org-opacity-changed-userimage.jpg");
+    margin-left: 380px;
+    margin-top: 200px;
+    position:absolute;
+    border-radius: 10px;
+    cursor: pointer;
+}
+#userh3
+{
+    /* align-items: center; */
+    color:navy;
+    margin-left: 110px;
+    margin-top: 30px;
+    /* font-size: 20px; */
+}
+#trainerh3
+{
+    /* align-items: center; */
+    color:navy;
+    margin-left: 120px;
+    margin-top: 30px;
+}
+.trainerdiv
+{
+    height:400px;
+    width:300px;
+    background-image: url("../pics/luxa.org-opacity-changed-userimage.jpg");
+    margin-left: 820px;
+    margin-top: 200px;
+    position:absolute;
+    border-radius: 10px;
+    cursor: pointer;
+}
+#trainerpic
+{
+    /* background-image: url(../pics/trainerwwe.webp); */
+    height:200px;
+}
+#userpic
+{
+    margin-left: 20px;
+    margin-top: 50px;
+}

@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+.lifediv
+{
+    background-image:url("../pics/drugs-opacity.jpg");
+    height: 180vh;
+    width:100%;
+    background-attachment:fixed ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    font-family: 'Poppins', sans-serif;
+}
+.life-content-div
+{
+    margin-top: 10vh;
+    height:90vh;
+    margin-left:200px;
+    width:80%;
+    /* color:antiquewhite; */
+}
+.life-content-one
+{
+    float:left;
+    position:absolute;
+}
+#life-pic-one
+{
+    padding:20px;
+    position:absolute;
+}
+.life-text-one
+{
+    margin-left: 500px;;
+    padding:20px;
+    float:left;
+    height:200px;
+    width:600px;
+    position:absolute;
+    color:balck;
+}
+.life-content-two
+{
+    float:left;
+    position:absolute;
+    margin-top: 300px;
+}
+#life-pic-two
+{
+    padding:20px;
+    position:absolute;
+    margin-left:600px;
+    
+    /* width:400px; */
+}
+.life-text-two
+{
+    /* margin-left: 50px; */
+    margin-top: 30px;
+    /* margin: 0px; */
+    padding:10px;
+    float:left;
+    height:200px;
+    width:600px;
+    position:absolute;
+    color:aqua;
+}
+.life-content-three
+{
+    margin-top: 600px;
+}
+.life-text-three
+{
+    margin-left: 500px;;
+    padding:20px;
+    float:left;
+    height:200px;
+    width:600px;
+    position:absolute;
+    color:whitesmoke;
+}
+#life-pic-three
+{
+    padding:20px;
+    position:absolute;
+}
+.life-content-four
+{
+    margin-top: 900px;
+}
+.life-text-four
+{
+    /* margin-left: 100px;; */
+    padding:10px;
+    float:left;
+    height:200px;
+    width:600px;
+    margin-top: 20px;
+    position:absolute;
+    color:yellow;
+}
+#life-pic-four
+{
+    padding:20px;
+    position:absolute;
+    margin-left:630px;
+}

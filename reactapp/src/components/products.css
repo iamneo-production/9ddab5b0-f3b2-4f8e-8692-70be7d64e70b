@@ -1,0 +1,291 @@
+.proddiv
+{
+    /* background-image: url("https://wallpaperaccess.com/full/5691564.jpg"); */
+  
+    height:320vh;
+    width:100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    display: flex;
+    background-image: url(../pics/luxa.org-opacity-changed-38162\ \(1\).jpg);
+}
+.allproducts
+{
+    height:300vh;
+    margin-left:10%;
+    margin-top:10vh;
+    width:80%;
+    border-radius: 40px;
+     background: rgb(255,254,254); 
+    background: linear-gradient(90deg, rgba(255,254,254,1) 0%, rgba(239,239,239,1) 2%); 
+}
+.prod_one
+{
+    margin-top: 100px;
+    height:29vh;
+    margin-left: 10vh;
+    width:85%;
+    padding:20px;
+    background-color: gray;
+}
+#prod_one_img
+{
+    margin-left: 50px;
+    height:200px;
+    width:300px;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSTKwtqyZD6qpuKgNfTT2HSIRfFjhT5yafrw&usqp=CAU");
+    background-repeat: no-repeat;
+}
+#prod_one_detail
+{
+    margin-left: 350px;
+    background-color:white;
+    height:200px;
+    width: 600px;
+}
+#prod_one_desc
+{
+    color:black;
+
+}
+#prodbtn1
+{
+    margin-left: 40px;
+    /* width:100px; */
+    /* margin-top: 100px; */
+    /* background-color: chocolate; */
+}
+#prodprice1
+{
+    background-color: navy;
+    width:120px;
+    color:yellow;
+    height:30px;
+    margin-left: 430px;
+    /* margin-top: 200px; */
+}
+.prod_two
+{
+    margin-top: 100px;
+    height:30vh;
+    margin-left: 10vh;
+    width:85%;
+    padding:20px;
+    background-color: gray;
+}
+#prod_two_img
+{
+    margin-left: 50px;
+    height:200px;
+    width:300px;
+    background-repeat: no-repeat;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ_ySu3gca2zXZ0tpudOA-eZIFgcXA7YbSe0g9wtcq6vtVKhXpihnz04eXpdQqhFe4ESQ&usqp=CAU");
+}
+#prod_two_detail
+{
+    margin-left: 350px;
+    background-color: white;
+    height:200px;
+    width: 600px;
+}
+/* #prod_two_desc
+{
+
+} */
+#prodbtn2
+{
+    margin-left: 40px;
+}
+#prodprice2
+{
+    background-color: navy;
+    width:120px;
+    color:yellow;
+    height:30px;
+    margin-left: 430px;
+}
+.prod_three
+{
+    margin-top: 100px;
+    height:30vh;
+    margin-left: 10vh;
+    width:85%;
+    padding:20px;
+    background-color: gray;
+}
+#prod_three_img
+{
+    margin-left: 50px;
+    height:200px;
+    width:300px;
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD8_spJBy0Ys7b9BNdjRoDodb9eZYombMxGg&usqp=CAU");
+    background-repeat: no-repeat;
+}
+#prod_three_detail
+{
+    margin-left: 350px;
+    background-color: white;
+    height:200px;
+    width: 600px;
+}
+/* #prod_three_desc
+{
+
+} */
+#prodbtn3
+{
+    margin-left: 40px;
+}
+#prodprice3
+{
+    background-color: navy;
+    width:120px;
+    color:yellow;
+    height:30px;
+    margin-left: 430px;
+}
+.prod_four
+{
+    margin-top: 100px;
+    height:30vh;
+    margin-left: 10vh;
+    width:85%;
+    padding:20px;
+    background-color: gray;
+}
+#prod_four_img
+{
+    margin-left: 50px;
+    height:200px;
+    width:300px;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP8DcLIRd3FeUtKgiYSaqTVrtvretm6jCZCg&usqp=CAU");
+    background-repeat: no-repeat;
+}
+#prod_four_detail
+{
+    margin-left: 350px;
+    background-color:white;
+    height:200px;
+    width: 600px;
+}
+/* #prod_four_desc
+{
+
+} */
+#prodbtn4
+{
+    margin-left: 40px;
+}
+#prodprice4
+{
+    background-color: navy;
+    width:140px;
+    color:yellow;
+    height:30px;
+    margin-left: 430px;
+}
+.prod_five
+{
+    margin-top: 100px;
+    height:30vh;
+    margin-left: 10vh;
+    width:85%;
+    padding:20px;
+    background-color: gray;
+    /* background-image: url("https://static.independent.co.uk/2023/03/03/12/Best%20rowing%20machines.jpg"); */
+}
+#prod_five_img
+{
+    margin-left: 50px;
+    height:200px;
+    width:300px;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTea1dPQaJP89w0yKLIM8cNHHfhBzFOyWuN_w&usqp=CAU");
+    background-repeat: no-repeat;
+}
+#prod_five_detail
+{
+    margin-left: 350px;
+    background-color: white;
+    height:200px;
+    width: 600px;
+}
+/* #prod_five_desc
+{
+
+} */
+#prodbtn5
+{
+    margin-left: 40px;
+}
+#prodprice5
+{
+    background-color: navy;
+    width:130px;
+    color:yellow;
+    height:30px;
+    margin-left: 430px;
+}
+.prod_six
+{
+    margin-top: 100px;
+    height:30vh;
+    padding:20px;
+    margin-left: 10vh;
+    width:85%;
+    background-color: gray;
+}
+#prod_six_img
+{
+    margin-left: 50px;
+    height:200px;
+    width:300px;
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_PPxpX2SSlZmCa3zzbXv25jWxEA4awPwu2xSvuFCxTz5HSeHMGOvvRDYVRFmjcs5c7UY&usqp=CAU");
+    background-repeat: no-repeat;
+}
+#prod_six_detail
+{
+    margin-left: 350px;
+    background-color: white;
+    height:200px;
+    width: 600px;
+}
+/* #prod_six_desc
+{
+    /* margin-left: 100px; */
+/* }  */
+#prodbtn6
+{
+    margin-left: 40px;
+}
+#prodprice6
+{
+    background-color: navy;
+    width:130px;
+    color:yellow;
+    height:30px;
+    margin-left: 430px;
+}
+#samebtneffect:hover
+{
+    background-color:orange;
+    color:navy;
+    transition: 1.5s;
+    border-radius: 7px;
+}
+#prodbackarrow
+{
+    width:100px;
+    background-color: gainsboro;
+    margin-top: 50px;
+    border-radius: 20px;
+    margin-left: 600px;
+}
+#prodarrow
+{
+    margin-left: 40px;
+}
+#prodbackarrow:hover
+{
+    background-color: lightseagreen;
+}

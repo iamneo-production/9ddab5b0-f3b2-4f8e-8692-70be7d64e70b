@@ -1,0 +1,42 @@
+.maindiv
+{
+    background-image: url(../pics/dashboard.jpg);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: fixed;
+}
+.full
+{
+     
+    background-color:salmon;
+    height:60px; 
+}
+nav{
+    /* margin-left: 899px; */
+    display: flex;
+}
+nav li
+{
+    display: inline-block;
+    margin:5px 15px;
+    
+}
+nav li:hover
+{
+    cursor:pointer;
+    color: ghostwhite;
+}
+.menu
+{
+    margin-top: 21px;
+    margin-left: 29px;
+}
+.menu-line
+{
+    /* margin-top: 20px; */
+    margin-bottom: 5px;
+    height:4px;
+    width:25px;
+    background-color: blue;
+}

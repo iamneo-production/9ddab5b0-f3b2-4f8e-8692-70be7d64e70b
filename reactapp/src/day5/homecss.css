@@ -1,0 +1,48 @@
+.homediv{
+    height:100vh;
+    position:fixed;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-image: url(	https://wallpaperaccess.com/full/6960924.jpg);
+    /* background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12); */
+}
+.card1
+{
+    margin-left: 160px;
+    margin-top: 150px;
+    position:absolute;
+    float:left;
+}
+.card2
+{
+    margin-left: 620px;
+    position:absolute;
+    margin-top: 150px;
+    /* height:600px; */
+}
+.card3
+{ 
+    margin-left: 1090px;
+    position:absolute;
+    margin-top: 150px;
+}
+.started{
+    margin-top:640px;
+    margin-left: 450px;
+}
+#startedbtn
+{
+    height:50px;
+    width:200px;
+    margin-left: 240px;
+   border-radius: 10px;
+}
+#startedbtn:hover
+{
+    cursor:pointer;
+    transition: 1.5s;
+    background-color: paleturquoise;
+    color:rebeccapurple;
+}

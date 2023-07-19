@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+ *{
+   
+    text-decoration: none; 
+ }
+body {
+    font-family: 'Poppins', sans-serif;
+
+}
+.hide
+{   
+    display:flex;
+    height:10vh;
+    background-color: lightgrey;
+}
+li
+{
+    float:left;
+}
+li:hover
+{
+   line-height: 20px;
+   /* background-color: #1D2951; */
+   border-radius: 7px;
+   align-items: center;
+}
+.navclass
+{
+    margin-left: 900px;
+    
+}
+#lione
+{
+   margin-left: 30px;
+   margin-top: 27  px;
+}
+#lione:focus
+{
+    background-color: blueviolet;
+}
+
+.data {
+    background: url(../pics/dashboard.jpg);
+    height: 90vh;
+    /* margin-left: 250px; */
+    background-size: cover;
+    background-repeat: no-repeat;           
+    /* opacity: 0.9; */
+}
+.side-menu {
+    display: none;
+    position: fixed;
+    background: #1D2951;
+    opacity:0.8;
+    width: 250px;
+    height: 100%;
+    /* margin-top: 80px; */
+}
+#lione:hover
+{
+    cursor:pointer;
+}
+.side-menu a {
+    display: block;
+    line-height: 60px;
+}
+
+.side-menu a:hover {
+    transition: 1.5s;
+    background: rgb(50, 237, 144);
+    padding-left: 20px;
+}
+
+.side-menu span {
+    font-size: 20px;
+    margin-left: 10px;
+    color: white;
+    margin-left: 20px;
+}
+
+

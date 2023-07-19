@@ -1,0 +1,83 @@
+.fitnessdiv
+{
+    background-image:url("../pics/homefitness_blackbrick_opacity_changed\ 0.7.jpg");
+    height: 150vh;
+    width:100%;
+    background-attachment:fixed ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    
+}
+.content-div
+{
+    margin-top: 10vh;
+    height:90vh;
+    margin-left:150px;
+    width:80%;
+    /* color:antiquewhite; */
+}
+.content-one
+{
+    float:left;
+    position:absolute;
+}
+#pic-one
+{
+    padding:20px;
+    position:absolute;
+}
+.text-one
+{
+    margin-left: 500px;;
+    padding:20px;
+    float:left;
+    height:200px;
+    width:600px;
+    position:absolute;
+    color:aqua;
+}
+.content-two
+{
+    float:left;
+    position:absolute;
+    margin-top: 400px;
+}
+#pic-two
+{
+    padding:20px;
+    position:absolute;
+    margin-left:600px;
+    /* width:400px; */
+}
+.text-two
+{
+    /* margin-left: 50px; */
+    margin: 0px;
+    padding:0px;
+    float:left;
+    height:200px;
+    width:600px;
+    position:absolute;
+    color:aqua;
+}
+.content-three
+{
+    margin-top: 700px;
+}
+.text-three
+{
+    margin-left: 500px;;
+    padding:20px;
+    float:left;
+    height:200px;
+    width:600px;
+    position:absolute;
+    color:aqua;
+}
+#pic-three
+{
+    padding:20px;
+    position:absolute;
+}

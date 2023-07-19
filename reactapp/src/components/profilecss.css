@@ -1,0 +1,124 @@
+.profileclass
+{
+    background-image: url("https://wallpaperaccess.com/full/149795.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    height: 100vh;
+    width: 100%;
+}
+.profilephone
+{
+  
+    margin-top: 0px;
+    margin-left: 650px;  
+    height: 700px;
+    width:500px;
+    position:absolute; 
+}
+#akname
+{
+    color:tomato;
+    width:400px;
+    height:50px;
+    background-color: aquamarine;
+    margin-top: 100px;
+    margin-left: 120px;
+}
+#akmobile
+{
+    color:tomato;
+    width:400px;
+    height:50px;
+    background-color: aquamarine;
+    margin-top: 60px;
+    margin-left: 120px;
+}
+#akexistingplan
+{
+    color:tomato;
+    width:400px;
+    height:50px;
+    background-color: aquamarine;
+    margin-top: 60px;
+    margin-left: 120px;
+}
+#akproducts
+{
+    /* padding:1px; */
+    color:red;
+    width:400px;
+    height:50px;
+    background-color: aquamarine;
+    margin-top: 60px;
+    margin-left: 120px;
+}
+#akinp
+.phone_image
+{
+   
+    margin-top: 100px;
+    border-radius: 60px;
+    margin-left: 20px;
+}
+#akinp
+{
+    margin-left: 15px;
+   
+}
+#profile_name
+{
+    margin-left: 30px;
+    height:100px;
+    border-color: black;
+    
+    width:100px;
+}
+.profiletablet
+{
+    height:500px;
+    width:400px;
+    margin-top: 140px;
+    margin-left: 150px;
+    position:absolute;
+}
+.tablet_image
+{
+    height:150px;
+    background-image: url("https://cdn-icons-png.flaticon.com/128/2170/2170153.png");
+    background-repeat: no-repeat;
+    width:300px;
+    position:absolute;
+    margin-left:129px;
+    margin-top: 140px;
+}
+#img
+{
+    background-image: url("https://i.pinimg.com/originals/56/36/9c/56369c64e80cc98d8ab2c1dfde5ef2ce.jpg");
+    margin-top: 100px;
+    position: absolute;
+    height:600px;
+    width:650px;
+    /* margin-left: 100px; */
+}
+#backarrow
+{
+    background-color: white;
+    border-color: red;
+    height:75px;
+    width:100px;
+    border-radius: 50px;
+    margin-left: 1400px;
+    margin-top: 400px;
+}
+#backarrow:hover{
+    transition: 1.5s;
+    background-color: chartreuse;
+}
+#arrow
+{
+    margin-left: 35px;
+    margin-top:27px;
+}

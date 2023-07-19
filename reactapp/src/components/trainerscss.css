@@ -1,0 +1,240 @@
+.wholetrainers
+{
+    height:350vh;
+    position: absolute;
+    /* background-image: url("../pics/luxa.org-opacity-changed-repeated\ dumbbels\ white.jpg"); */
+    background-color: teal;
+    display: flex;
+    width: 100%;
+}
+.trainerscontent
+{
+    position:absolute;
+    height:330vh;
+    margin-top: 10vh;
+    margin-left: 100px;
+    width:90%;
+    background-color: white;
+    /* background: rgb(255,232,232);
+    background: linear-gradient(90deg, rgba(255,232,232,1) 0%, rgba(234,186,186,1) 2%); */
+}
+#rightcertified
+{
+    position:absolute;
+    /* background-color: black; */
+    /* background-image: url("https://cdn-icons-png.flaticon.com/512/3500/3500896.png"); */
+    height:100px;
+    width:100px;
+    margin-top: 40px;
+    margin-left: 880px;
+}
+#leftcertified
+{
+    position:absolute;
+    /* background-color: black; */
+    /* background-image: url("https://cdn-icons-png.flaticon.com/512/3500/3500896.png"); */
+    height:100px;
+    width:100px;
+    margin-top: 40px;
+    margin-left: 560px;
+}
+/* #leftcertified:hover{
+    transform:rotateZ(360deg);
+    transition: 0.5s;
+} */
+#rchoose
+{
+    position:absolute;
+    margin-left: 850px;
+    margin-top: 200px;
+    
+}
+#lchoose
+{
+    position:absolute;
+    margin-left: 550px;
+    margin-top: 200px;
+    /* background-color: black; */
+    /* box-shadow: 5px; */
+}
+#buttonchoose
+{
+    background-color: yellow;
+    border-radius: 4px;
+    box-shadow: 100px black;
+}
+#buttonchoose:hover{
+    transition:1.5s;
+    color:white;
+    background-color: navy;
+}
+.trainer1
+{
+    position:absolute;
+    height:300px;
+    width:70%;
+    color:aqua;
+    margin-top: 200px;
+    margin-left: 130px;
+    background: rgb(223,20,10);
+background: linear-gradient(0deg, rgba(223,20,10,1) 0%, rgba(236,152,125,1) 100%);
+}
+#trainer1pic
+{
+    margin-top: 20px;
+    margin-left: 40px;
+    position: absolute;
+}
+#trainer1desc
+{
+    position:absolute;
+    margin-left: 400px;
+    height:230px;
+    margin-top: 30px;
+    width:600px;
+    background-color: aquamarine;
+}
+.trainer2
+{
+    position:absolute;
+    height:300px;
+    width:70%;
+    color:aqua;
+    margin-top: 600px;
+    margin-left: 370px;
+    background: rgb(184,142,237);
+    background: linear-gradient(0deg, rgba(184,142,237,0.9809173669467787) 0%, rgba(48,12,83,1) 100%);
+}
+#trainer2pic
+{
+    margin-top: 20px;
+    margin-left: 780px;
+    position: absolute;
+}
+#trainer2desc
+{
+    position:absolute;
+    margin-left: 85px;
+    height:230px;
+    margin-top: 30px;
+    width:600px;
+    background-color: aquamarine;
+}
+.trainer3
+{
+    position:absolute;
+    height:300px;
+    width:70%;
+    color:aqua;
+    margin-top: 1000px;
+    margin-left: 130px;
+    background: rgb(60,87,46);
+background: linear-gradient(0deg, rgba(60,87,46,0.9809173669467787) 0%, rgba(100,169,123,1) 100%);
+}
+#trainer3pic
+{
+    margin-top: 20px;
+    margin-left: 40px;
+    position: absolute;
+}
+#trainer3desc
+{
+    position:absolute;
+    margin-left: 400px;
+    height:230px;
+    margin-top: 30px;
+    width:600px;
+    background-color: aquamarine;
+}
+#h3trainerid
+{
+    margin-left: 20px;
+    color:navy;
+}
+.trainer4
+{
+    position:absolute;
+    height:300px;
+    width:70%;
+    color:aqua;
+    margin-top: 1400px;
+    margin-left: 370px;
+    background: rgb(38,49,190);
+    background: linear-gradient(0deg, rgba(38,49,190,0.9809173669467787) 0%, rgba(110,127,219,1) 100%);
+}
+#trainer4pic
+{
+    margin-top: 20px;
+    margin-left: 780px;
+    position: absolute;
+}
+#trainer4desc
+{
+    position:absolute;
+    margin-left: 85px;
+    height:230px;
+    margin-top: 30px;
+    width:600px;
+    background-color: aquamarine;
+}
+.trainer5
+{
+    position:absolute;
+    height:300px;
+    width:70%;
+    color:aqua;
+    margin-top: 1800px;
+    margin-left: 130px;
+    background: rgb(38,49,190);
+background: linear-gradient(0deg, rgba(38,49,190,0.9809173669467787) 0%, rgba(181,46,162,1) 100%);
+}
+#trainer5pic
+{
+    margin-top: 20px;
+    margin-left: 40px;
+    position: absolute;
+}
+#trainer5desc
+{
+    position:absolute;
+    margin-left: 400px;
+    height:230px;
+    margin-top: 30px;
+    width:600px;
+    background-color: aquamarine;
+}
+.trainer6
+{
+    position:absolute;
+    height:300px;
+    width:70%;
+    color:aqua;
+    margin-top: 2200px;
+    margin-left: 370px;
+    background: rgb(196,139,93);
+background: linear-gradient(0deg, rgba(196,139,93,0.9809173669467787) 0%, rgba(243,244,46,1) 100%);
+}
+#trainer6pic
+{
+    margin-top: 20px;
+    margin-left: 780px;
+    position: absolute;
+}
+#trainer6desc
+{
+    position:absolute;
+    margin-left: 85px;
+    height:230px;
+    margin-top: 30px;
+    width:600px;
+    background-color: aquamarine;
+}
+#trainersbackbutton
+{
+    position: absolute;
+    margin-top: 2600px;
+    margin-left:710px;
+    height:70px; 
+    width:200px; 
+    background-color: lavender;
+}

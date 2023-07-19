@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+.dietdiv
+{
+    background-image:url("../pics/homediet\ 2\ opacity.avif");
+    height: 180vh;
+    width:100%;
+    background-attachment:fixed ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    font-family: 'Poppins', sans-serif;
+}
+.diet-content-div
+{
+    margin-top: 10vh;
+    height:90vh;
+    margin-left:200px;
+    width:80%;
+    /* color:antiquewhite; */
+}
+.diet-content-one
+{
+    float:left;
+    position:absolute;
+}
+#diet-pic-one
+{
+    padding:20px;
+    position:absolute;
+}
+.diet-text-one
+{
+    margin-left: 500px;;
+    padding:20px;
+    float:left;
+    height:200px;
+    width:600px;
+    position:absolute;
+    color:yellow;
+}
+.diet-content-two
+{
+    float:left;
+    position:absolute;
+    margin-top: 300px;
+}
+#diet-pic-two
+{
+    padding:20px;
+    position:absolute;
+    margin-left:600px;
+    
+    /* width:400px; */
+}
+.diet-text-two
+{
+    /* margin-left: 50px; */
+    margin-top: 30px;
+    /* margin: 0px; */
+    padding:10px;
+    float:left;
+    height:200px;
+    width:600px;
+    position:absolute;
+    color:aqua;
+}
+.diet-content-three
+{
+    margin-top: 600px;
+}
+.diet-text-three
+{
+    margin-left: 500px;;
+    padding:20px;
+    float:left;
+    height:200px;
+    width:600px;
+    position:absolute;
+    color:whitesmoke;
+}
+#diet-pic-three
+{
+    padding:20px;
+    position:absolute;
+}
+.diet-content-four
+{
+    margin-top: 900px;
+}
+.diet-text-four
+{
+    /* margin-left: 100px;; */
+    padding:10px;
+    float:left;
+    height:200px;
+    width:600px;
+    margin-top: 20px;
+    position:absolute;
+    color:yellow;
+}
+#diet-pic-four
+{
+    padding:20px;
+    position:absolute;
+    margin-left:630px;
+}
