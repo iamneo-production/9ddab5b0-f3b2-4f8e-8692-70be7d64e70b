@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
+import App from './App';
 import reportWebVitals from './reportWebVitals';
 import Signuppage from './components/Signup';
 import Login from './components/Login';
@@ -46,7 +47,7 @@ root.render(
     <Route path="/Login" element={<Login/>}/>
     <Route path="/products" element={<Products/>}/>
     <Route path="/homefitness" element={<Fitness/>}/>
-    <Route path="/homediet" element={<Diet/>}/>
+    <Route path="/homediet" el  ement={<Diet/>}/>
     <Route path="/homelife" element={<Life/>}/>
     <Route path="/userortrainer"element ={<Choose/>}/>   
     <Route path="/profile" element={<Profile/>}/>
